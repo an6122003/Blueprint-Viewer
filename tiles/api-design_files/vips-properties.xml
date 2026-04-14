@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<image xmlns="http://www.vips.ecs.soton.ac.uk//dzsave" date="2026-04-12T21:27:04.370678+07" version="8.18.2">
+  <properties>
+    <property>
+      <name>width</name>
+      <value type="gint">30611</value>
+    </property>
+    <property>
+      <name>height</name>
+      <value type="gint">61099</value>
+    </property>
+    <property>
+      <name>bands</name>
+      <value type="gint">4</value>
+    </property>
+    <property>
+      <name>xoffset</name>
+      <value type="gint">0</value>
+    </property>
+    <property>
+      <name>yoffset</name>
+      <value type="gint">0</value>
+    </property>
+    <property>
+      <name>xres</name>
+      <value type="gdouble">8.6614173228346463</value>
+    </property>
+    <property>
+      <name>yres</name>
+      <value type="gdouble">8.6614173228346463</value>
+    </property>
+    <property>
+      <name>vips-loader</name>
+      <value type="VipsRefString">pdfload</value>
+    </property>
+    <property>
+      <name>pdf-n_pages</name>
+      <value type="gint">1</value>
+    </property>
+    <property>
+      <name>n-pages</name>
+      <value type="gint">1</value>
+    </property>
+    <property>
+      <name>pdf-metadata</name>
+      <value type="VipsRefString">&lt;?xpacket begin="" id="W5M0MpCehiHzreSzNTczkc9d"?&gt;
+&lt;x:xmpmeta xmlns:x="adobe:ns:meta/"&gt;
+  &lt;rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;
+    &lt;rdf:Description rdf:about=""
+      xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:xmp="http://ns.adobe.com/xap/1.0/"&gt;
+      &lt;dc:title&gt;
+        &lt;rdf:Alt&gt;
+          &lt;rdf:li xml:lang="x-default"&gt;(Bid)&lt;/rdf:li&gt;
+        &lt;/rdf:Alt&gt;
+      &lt;/dc:title&gt;
+      &lt;dc:language&gt;
+        &lt;rdf:Bag&gt;
+          &lt;rdf:li&gt;(en)&lt;/rdf:li&gt;
+        &lt;/rdf:Bag&gt;
+      &lt;/dc:language&gt;
+    &lt;/rdf:Description&gt;
+    &lt;rdf:Description xmlns:pdfuaid="http://www.aiim.org/pdfua/ns/id/"&gt;
+      &lt;pdfuaid:part&gt;1&lt;/pdfuaid:part&gt;
+    &lt;/rdf:Description&gt;
+  &lt;/rdf:RDF&gt;
+&lt;/x:xmpmeta&gt;
+&lt;?xpacket end="w"?&gt;</value>
+    </property>
+    <property>
+      <name>vips-sequential</name>
+      <value type="gint">1</value>
+    </property>
+  </properties>
+</image>
